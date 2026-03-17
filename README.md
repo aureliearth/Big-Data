@@ -7,4 +7,4 @@ https://colab.research.google.com/drive/1nHekIoVeMch7IQH7HWb7Yb6rPagwwP2V?usp=sh
 ## ESSAI
 https://docs.google.com/document/d/1LHCa3-xTBfB0E7hswnGMzIAj8Q5J-f8M9QjsleE-V9I/edit?tab=t.0
 ## PPT
-asd
+https://www.canva.com/design/DAHELM7c_Ow/EBqJ6KkBc1Ts03wWoMcLaA/edit?utm_content=DAHELM7c_Ow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
