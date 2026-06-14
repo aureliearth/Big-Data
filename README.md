@@ -9,6 +9,8 @@ https://colab.research.google.com/drive/1nHekIoVeMch7IQH7HWb7Yb6rPagwwP2V?usp=sh
 https://colab.research.google.com/drive/1DSNWY9ofsFFXK2g72iFsPb4FhygInUig#scrollTo=wLWSzKi7Sn1o
 ### Revisi 3
 https://colab.research.google.com/drive/12YtKmrNsGADOs7A0GdzORp3iSDBarZZy?usp=sharing
+### Revisi 4
+https://colab.research.google.com/drive/1OJl46wJqw9hW4tvhzsuuUKOrJVnpNazY?usp=sharing
 ## ESSAI
 https://docs.google.com/document/d/1LHCa3-xTBfB0E7hswnGMzIAj8Q5J-f8M9QjsleE-V9I/edit?tab=t.0
 ## PPT
