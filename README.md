@@ -13,8 +13,10 @@ https://colab.research.google.com/drive/12YtKmrNsGADOs7A0GdzORp3iSDBarZZy?usp=sh
 https://colab.research.google.com/drive/1OJl46wJqw9hW4tvhzsuuUKOrJVnpNazY?usp=sharing
 ### Revisi 5
 https://colab.research.google.com/drive/1DSNWY9ofsFFXK2g72iFsPb4FhygInUig#scrollTo=wLWSzKi7Sn1o
-### Notebook Final
+### Revisi 6
 https://colab.research.google.com/drive/12YtKmrNsGADOs7A0GdzORp3iSDBarZZy#scrollTo=1bdHoyp9R1zs
+### Revisi 7 dan Final
+https://colab.research.google.com/drive/1tL5lzu9hP1MQUryODGT2B_7exMJJvS24?usp=sharing
 ## ESSAI
 https://docs.google.com/document/d/1LHCa3-xTBfB0E7hswnGMzIAj8Q5J-f8M9QjsleE-V9I/edit?tab=t.0
 ## PPT ETS
