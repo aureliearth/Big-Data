@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1OJl46wJqw9hW4tvhzsuuUKOrJVnpNazY?usp=sh
 https://colab.research.google.com/drive/12YtKmrNsGADOs7A0GdzORp3iSDBarZZy?usp=sharing
 ## ESSAI
 https://docs.google.com/document/d/1LHCa3-xTBfB0E7hswnGMzIAj8Q5J-f8M9QjsleE-V9I/edit?tab=t.0
-## PPT
+## PPT ETS
 https://www.canva.com/design/DAHELM7c_Ow/EBqJ6KkBc1Ts03wWoMcLaA/edit?utm_content=DAHELM7c_Ow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## PPT UAS 
 https://canva.link/443p8d6yfq7mcu6 
